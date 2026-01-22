@@ -233,7 +233,7 @@ echo $date->format("F j, Y"); // Output: January 21, 2026
     <div class="signature-right">
       
         <img src='signature.png'>
-        <strong> <center>UYI JOACHIM EBUH </center>
+        <strong> <center>UYI JOACHIM EBHOUMA </center>
         <center>Director</center></strong>
     </div>
 </div>
@@ -246,4 +246,3 @@ echo $date->format("F j, Y"); // Output: January 21, 2026
  <center> <button class="print-btn" onclick="window.print()">Print Certificate</button></center>
 </body>
 </html>
-
