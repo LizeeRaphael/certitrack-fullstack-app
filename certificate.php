@@ -233,7 +233,7 @@ echo $date->format("F j, Y"); // Output: January 21, 2026
     <div class="signature-right">
       
         <img src='signature.png'>
-        <strong> <center>UYI JOACHIM EBHuoma </center>
+        <strong> <center>UYI JOACHIM EBHUOMA</center>
         <center>Director</center></strong>
     </div>
 </div>
