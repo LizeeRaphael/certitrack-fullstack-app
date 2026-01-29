@@ -236,7 +236,7 @@
 </section>
 
 <footer>
-  © 2026 CertiTrack Platform. All rights reserved.
+  © <span id="year"></span> CertiTrack Platform. All rights reserved.
 </footer>
 
 <script>
