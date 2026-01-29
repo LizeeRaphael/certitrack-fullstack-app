@@ -240,6 +240,9 @@
 </footer>
 
 <script>
+// ✅ Auto-update footer year
+document.getElementById("year").textContent = new Date().getFullYear();
+
 document.getElementById('certForm').addEventListener('submit', function(e){
   e.preventDefault();
 
@@ -264,6 +267,7 @@ document.getElementById('certForm').addEventListener('submit', function(e){
   });
 });
 </script>
+
 
 
 </body>
