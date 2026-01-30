@@ -236,7 +236,7 @@
 </section>
 
 <footer>
-  © <span id="year"></span> CertiTracker Platform. All rights reserved.
+  © <span id="year"></span> CertiTrack Platform. All rights reserved.
 </footer>
 
 <script>
