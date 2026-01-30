@@ -231,7 +231,7 @@
   </div>
   <div class="feature">
     <h4>🌍 Professional</h4>
-    <p>Clean modern UI suitable for organizations and institutions</p>
+    <p>Clean modern UI suitable for organizations and institutions.</p>
   </div>
 </section>
 
