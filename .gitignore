@@ -2,5 +2,4 @@ admin/certificates/
 *.log
 .env
 /vendor
-/node_modules
 /Certificate.zip
